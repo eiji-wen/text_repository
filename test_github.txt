@@ -1,0 +1,2 @@
+github is a git server for free(public), you can use it to control your project.
+Try to use it.
